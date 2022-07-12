@@ -6,7 +6,7 @@ The algorithms include:
  - Topological sorting
  - Prim's algorithm
  - Kruskal's algorithm
- - dijkstra's algorithm
+ - Dijkstra's algorithm
  - Bellman-Ford algorithm
  - Huffman coding
  - Hopcroft-Tarjan Algorithm
